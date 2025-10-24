@@ -1,0 +1,108 @@
+TECHNICAL DESIGNER
+
+Career Overview
+
+a—A Having 8.5 years of IT experience as Software developer in Java/J2EE Technologies
+a—A At present Technical Designer at Tata Consultancy Services
+
+Fee Cru ctce Mer cea PD eres Ot eet OT Ua CCUG eet Te ee MO (No nae Soe CIT OMN) Wc WESTtGT Mer RNC St iow CO) ER
+XML, PLSQL
+
+a—A Sun Certified Java Programmer 1.6
+
+a—A A Solid experience on Agile developrent
+
+a—A A Thorough understanding of Object Oriented Methodology and Design Patterns.
+
+a—A A Proficiency in developing web based applications using Java/J2EE
+
+a—A A Knowledge in working with WebServices.
+
+Fee WS reo OPT OU eter TB EMA ecesrey te)
+
+a—A A Looking ahead for great career in a fair working environment with opportunities to grow.
+Qualifications
+
+Designing, Coding and Unit Testing, Coding : Spring 3, jQuery, Bootstrap, JPA, Struts, Core Java, JSP, EJB, XML, PLSQL *Tooks: Eclipse 4,
+Confluence UML, Git, Rally
+
+Aug oanan at acs
+
+Blccn el eBeciuLad
+
+February 2011 to Current Company Name iA City , State
+
+Software Engineer
+
+January 2010 to January 2011 Company Name i City
+
+© FXO (FedEx Office) Client : FedEx Environment : Java 6.0, Web Services, Hibernate, EJB, XML.
+
+© Team Size : 25 Tools : Subversion, Eclipse Database : MySQL Server Servers : JBOSS Description: The FedEx office project is a
+currently built upon the printing and shipping services of the logistics segment.
+
+© This application mainly focused of the printing the different kind of printing services for the end customers like Print and send the documents
+
+with binging, folding, etc.
+
+And affer the print done for the each document provided FXO als provides the flexibility to the user the ship the document and track it.
+
+Roks and Responsbilities Involved in the Analysis & Design discussion process for enhancerrent features.
+
+Involved in the developing the Struts code.
+
+Involved in Requirement gathering,
+
+Used PMD and Findbugs took.
+
+Bug Fixing,
+
+Bs iias Cecrtinres
+
+Software Engineer
+October 2006 to January 2010 Company Name 1 City
+
+* Java 6.0, Hibernate, Struts, UML, Niagara AX, XML Team Size : 20 Tools : Subversion, Rhapsody, Eclipse, UDS Database : SQL
+express Description: The iCon3 tool is an integrated tool set spanning initial system estimate and quotation, through system engineering,
+Coo Lom eur umn cace eco MCTROOniUiC Le Meese ccLenieceechaar com Marta omarem sighed oem
+
+In addition the 1Con3 too! will interface to HBS's other business systems such as purchasing and project management.
+
+Miva URN d cee QoCE OVER OR CoP nies acne Mele cee R oR ccuimer Uri Omaluin coment tcc onintecaayeci@ bl tietsd
+Bitiehsbeemacs aes
+
+© Labor hours are reduced by applying automation on various levels of the object model, which reduces the overall complexity especially in
+loeb eeu mein ue MaruivcarnUrtye Reels ECCS Oa Us Hb tece
+
+The vision of the iCon3 tool is to focus on system configuration and minimize the need to engineer control applications.
+
+This will be accomplished by providing various configurable models, which covers almost any kind of application.
+
+The final goal of the iCon3 tool is to analyze the drawings provided during the estimation phase.
+
+The tool will suggest solutions, provide optimized cost calculation and generate bid specification.
+
+During the engineering phase, the solutions can be reused and configured according to customer specification.
+
+ONS SSHe sR Meum iliac uenanun erence lel
+
+During the commissioning phase, new innovative technology, based on the Tridium AX platform, will reduce labor and travel costs.
+
+Roks and Responsbilities Involved in the Analysis & Design discussion process.
+
+Involved in Requirement gathering,
+
+Involved in weekly Track meetings & MR Involved in developing prototypes Involved in integration of Axis with JBOSS and coding Unit
+BKootiem
+
+© Secondary CM Focal for the project.
+
+Rolf
+
+© Environment : Spring, Java 6.0, EJB, XML, PLSQL Team Size : 20 Tools : Git, Eclipse, Rally, UML, Confluence Database : Oracle Ii
+Servers : Weblogic 10 Description: SEI (NASDAQ: SEIC) is a leading global provider ofassct management, investment processing, and
+investment operations solutions for institutional and personal wealth managerent.
+
+SUP nig eee net e EU CO RM UGS ALOR RU LOMB RLCOKe Pri Danan atau obipepieatscem ics ilem
+Roks and Responsbilities Involved in the Analysis & Design discussion process for enhancerrent features.
+

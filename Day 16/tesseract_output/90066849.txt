@@ -1,0 +1,88 @@
+INSTRUCTIONAL DESIGNER
+Summary
+
+Tarantha Uebele is a Home Health Clinical Analyst and Instructional Designer with over 28 years' experience in home health and hospice and the
+Epic Hone Health application for 5 years. During an enterprise install for ProHealth Care, Tamantha served as Business Analyst, Principal Trainer,
+and Application Coordinator during an end-to-end implementation and system updates post go-live. She was into the build phase ofa system
+upgrade when she went into consulting, As analyst consultant for Providence Health & Services, she led a Community Connect Home Health
+implementation project involving discovery, validation, workflow design, build, and testing. At Northwest Community Hospital, she served as build
+analyst on the Home Health team where her experience involved validation, workflow design, build, testing, and clinical break-out sessions. At
+Lahey Health, Tamantha was Instructional Designer leading their Home Health agency's training environment build, materials build, and chssroom
+instruction for an integrated implementation. She continued with go-live support, Nova review and testing with system updates.
+
+Tarrantha possesses expertise in designing, building, implementing, and supporting the Hore Health and Hospice application as well as other
+applications used for Home Health's module to rum successfully (ADT & Cadence.) She has experience in an array of Epic fimctionality, including
+Facility, Profile, & Department Settings, Contact & Visit Types, Reporting Workbench, Print Groups, Custom Form Build, InBasket, User &
+Provider build, security templates and settings, Cadence Temphtes, Srrart Tools, Care Plan build, and the technical needs of Remote Client.
+
+Qualifications
+
+© Epic Hone Health Clinical Certification (2009, NVT 2010, NVT 2012, NVT 2014, NVT 2015) (includes Hospice)
+© Epic Principal Trainer/Instructional Designer for Home Health Clinical (TED 2010)
+
+Highlights
+© Full project experience: planning, validation, build,
+
+* Consultant experience: Lead in Home Health Implementation with Rech Um Lom ema LeMeTeRe tent oe}
+responsibilities including: workflow analysis, recommendations, redesign, © Knowledge & Experience with every version of
+presentations, and team member duties Hore Health since 2009 including 2015 releases
+
+* Formal sessions include: data gathering/discovery, workflow validation, * Knowledge of Home Care and Hospice regulations
+integrated workflows, building & testing, and training including OASIS, Physicians' Orders, Care Plans,
+
+© 28 years of experience in the Home Health and Hospice Pie @ysecke a Orica
+
+© Equally qualified as Analyst & Instructional Designer
+Epic Specific Experience and Expertise
+
+Application Coordinator/Analyst Specifics
+
+© System analysis, build, testing, and system optimization with all versions: 2009, 2010, 2012, 2014, and new rekases for 2015
+© Workflow analysis, development, redesign, and validation
+
+Build, maintenance of, and other experience: (but not limited to):
+
+Facility settings (EAF), Profile settings (LPR), Department settings (DEP)
+
+Contact & Visit Types (LCT & PRC)
+
+Reporting Workbench Reports (LRP)
+
+Build and layout of forms and form groups including Custom Form Build (LFG)
+
+InBasket Classes, Pools, messages, and routing
+
+Verbal Order build (LVO)
+
+User & Provider build (EMP & SER)
+
+Linked Templates, Sub-Temphites, security points, and security classes (ECL)
+
+Cadence Temphites: editing, pattems, exceptions, defaults, & blocks
+
+Documentation build (reports, Flow-Sheets, Care Planning, problers, and Interventions)
+Management & maintenance of the Home Health Databases
+
+Integrated workflows between Home Care, Home Hospice, & Inpatient Hospice Facility
+Integrated workflows between intake, scheduling, clinical documentation, HIM, quality, and billing
+Security Team Application Lead
+
+Data Courier/Migration Team Application Lead
+
+Change control and communications Application Lead
+
+Business Continuity Access (BCA)/Downtime Application Lead
+
+Provided end-user support for all clinical and office users
+
+Understanding of Epic's Community Lead structure involving several regions/instances
+
+Epic Training & Curriculum Development
+
+© Development ofall Epic Home Health training mterials including Lesson Plan Matrix, Course Companions, Training Manuals, and
+Competency checklists.
+
+© Train-the-Trainers: Credentialed Trainer and Super-users
+
+© Chssroom instruction for end-users for all non-clinical courses
+
