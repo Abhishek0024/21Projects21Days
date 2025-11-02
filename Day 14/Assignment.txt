@@ -1,0 +1,20 @@
+Question: What does an SFTTrainer does? What does packing = false means? how do they help in training?
+
+SFTTrainer:
+A specialized trainer for supervised fine-tuning of large language models. It handles:
+Tokenization
+Batching
+Training loop and evaluation
+Checkpointing
+PEFT (parameter-efficient fine-tuning) adapters
+This makes it easier to fine-tune LLMs on custom datasets.
+
+
+packing=False:
+Keeps each training example as a separate sequence with its own start/end tokens.
+
+If True, multiple examples are concatenated into one sequence to reduce padding and improve GPU efficiency.
+
+
+How they help:
+SFTTrainer simplifies the fine-tuning process, while packing=False preserves the integrity of individual examples—important for instruction-following or dialogue tasks—though it may use more memory than packed sequences.
